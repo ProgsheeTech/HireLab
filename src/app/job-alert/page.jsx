@@ -6,6 +6,7 @@ import Image from 'next/image'
 var teamImg = require('../../images/team/pic1.jpg');
 
 function JobAlert(){	
+	
 	return(
 		<>
 			<div className="page-content bg-white">
